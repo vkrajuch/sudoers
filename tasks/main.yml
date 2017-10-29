@@ -1,0 +1,4 @@
+---
+ - copy:
+      src: usersudo
+      dest: /etc/sudoers.d/  
